@@ -98,5 +98,16 @@ Time spent: 1.5 hours (90 mins)
 
 Splitting this into its own entry cuz like idk shorter entries or smth
 
+![plate](https://cdn.hackclub.com/019de89c-62bb-7905-a704-71eff388bc7f/Screen%20Shot%202026-05-02%20at%2010.10.48%20pm.png)
+
+plate
+
+not much to it. its 3mm thick
+
+![blhe](https://cdn.hackclub.com/019de89c-be33-7f8d-b9c9-e4b7cf9a78ce/Screen%20Shot%202026-05-02%20at%2010.12.31%20pm.png)
+
+added the relief cuts/space for it to click/whatever you call em.
+
+since mx switches need 1.5mm plates, and I used 3mm plate, i made a 0.5mm cut on the bottom 1.5mm of the plate so it like allows it to click in instead of friction fit
 
 
