@@ -43,3 +43,60 @@ bazinga
 this thingy says I need 4.8-6V so imma hook it up to 5V
 
 ![image](https://cdn.hackclub.com/019de853-5db3-7fbf-aea4-c3a601ca6398/Screen%20Shot%202026-05-02%20at%208.54.19%20pm.png)
+
+Huzzah
+
+![banana](https://cdn.hackclub.com/019de887-27a6-76f7-96f8-3d006521b36f/Screen%20Shot%202026-05-02%20at%209.09.37%20pm.png)
+
+Schematic before routing looks like this. its cool ig not much to tlak about
+
+![bleh](https://cdn.hackclub.com/019de887-d76e-7b9c-9eb9-e0d8c7285bef/Screen%20Shot%202026-05-02%20at%209.09.42%20pm.png)
+
+here is the footprint assignments
+
+
+onwards to pcb bullshittery
+
+![parts](https://cdn.hackclub.com/019de888-747a-76a2-ab5d-5265bf7cf7cc/Screen%20Shot%202026-05-02%20at%209.15.19%20pm.png)
+
+Placed ma parts down. Tried to go for a compactish build(also started routing a bit but thats cuz i forgor to take the ss earlier)
+
+
+![routing](https://cdn.hackclub.com/019de889-688c-7120-a637-2afd509bdbb1/Screen%20Shot%202026-05-02%20at%209.24.34%20pm.png)
+
+routing yay
+
+Aslso moved arounf the headers for the servos off a bit closer to the microcontroller. probably wont use headers for the real build anyways but imma leave them in for now.
+
+
+![cutlines](https://cdn.hackclub.com/019de88b-1ca4-7d2a-a0cd-71e07fa98330/Screen%20Shot%202026-05-02%20at%209.26.06%20pm.png)
+
+added cutlines. plus gave them routed corners. I also used the inbuilt fuction thingy that kicad has for filleting corners. first time using it too. but its a bit funny working when you try to fillet individual lines.
+
+![model](https://cdn.hackclub.com/019de88c-7024-7e5d-a20a-a81a15928f9e/Screen%20Shot%202026-05-02%20at%209.28.18%20pm.png)
+ 
+model generated
+
+![mdel2](https://cdn.hackclub.com/019de88c-c632-7351-bc84-0501af29a4d1/Screen%20Shot%202026-05-02%20at%209.39.18%20pm.png)
+
+Found some models for the parts missing models and now finished model(the servos will be in the build cad cuz its gonna be case reliant)
+
+Potato
+
+![banan](https://cdn.hackclub.com/019de88d-99a8-74dc-9be6-9e1a3ada060a/Screen%20Shot%202026-05-02%20at%209.50.56%20pm.png)
+
+Here is my finished schematic cuz I needed to change around some of the pin locations since im dum and routing got annoying
+
+okay time to go to cad
+
+Silkscreen stuff imma do later, not bothered rn
+
+Time spent: 1.5 hours (90 mins)
+
+
+## May 2nd(again)
+
+Splitting this into its own entry cuz like idk shorter entries or smth
+
+
+
